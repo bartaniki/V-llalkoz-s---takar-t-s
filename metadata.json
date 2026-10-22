@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Otthonka",
+  "description": "Professzionális, leinformálható takarítás magánlakások és házak részére Tata, Tatabánya és környékén. Próbaakció 4000 Ft/óra díjjal december 11-ig!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
